@@ -1,0 +1,40 @@
+.submit-action .spinner {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    margin: 5px 10px 0 0;
+}
+
+.sbocbr-notice .notice-item {
+    background: #fff;
+    border-left: 4px solid #fff;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    padding: 1px 12px;
+    margin: 5px 0 15px;
+}
+
+.sbocbr-notice .notice-item-error {
+    color: #dc3232;
+    border-left-color: #dc3232;
+}
+
+.sbocbr-notice .notice-item-warning {
+    color: #ffb900;
+    border-left-color: #ffb900;
+}
+
+.sbocbr-notice .notice-item-success {
+    color: #46b450;
+    border-left-color: #46b450;
+}
+
+.sbocbr-notice .notice-item p {
+    margin: .5em 0;
+    padding: 2px;
+}
+
+.sbocbr-notice .can-dismiss {
+    padding-right: 38px;
+    position: relative;
+}
